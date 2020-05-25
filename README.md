@@ -5,7 +5,7 @@
  Game : Escape it!
  Documentation:
 1. HOW TO INSTALL AND RUN: Fork and clone this project, then move into the folder named escapeIt and run the executable named 'play'.
-2.	Theme: You are an alien travelling in a low flying spaceship trying to safely explore Earth. The ships and network towers are the obstacles (You’ll have to play the same level when your next turn comes)
+2.	Theme: You are an alien travelling in a low flying spaceship trying to safely explore Earth. The ships and network towers are the obstacles (If you are stuck by these obstacles you will have to play the same level when your next turn comes)
 3.	Rules and Functionality:
 a.	The first turn goes to player 1 who has to start from the bottom of the window
 b.	After his turn is over, the second player must start playing
