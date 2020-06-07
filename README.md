@@ -1,5 +1,5 @@
 # EscapeIt-pygame
- This game has been created by me using pygame. Install and play it!
+ Install and play it!
  This game has been created by me on 14th and 15th feb 2020
 # PYGAME
  Game : Escape it!
